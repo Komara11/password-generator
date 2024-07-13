@@ -1,2 +1,2 @@
 # password-generator
-password generator dengan tampilan sederhana
+password generator dengan tampilan sederhana bootstrap.
