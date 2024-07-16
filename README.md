@@ -1,2 +1,2 @@
 # password-generator
-password generator dengan tampilan sederhana bootstrap.
+web password generator dengan tampilan sederhana bootstrap.
